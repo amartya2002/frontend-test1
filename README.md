@@ -1,1 +1,3 @@
-Haldia Institute of Technology Biotechnology Department Website
+# Haldia Institute of Technology, Biotechnology Department
+Departmental Website
+
